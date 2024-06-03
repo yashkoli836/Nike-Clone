@@ -7,9 +7,9 @@
 </div>
 
 # Working Site
-```bash
+
   <a src="nike-clone-my-project.vercel.app">Nike.com</a>
-```
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
