@@ -15,7 +15,7 @@
 
 - Tailwind CSS
 - React.js
-
+- Vite
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
