@@ -8,7 +8,7 @@
 
 # Working Site
 
-  <a src="nike-clone-my-project.vercel.app">Nike.com</a>
+  [Nike-Clone](https://nike-clone-my-project.vercel.app/)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
